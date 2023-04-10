@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "localstorage-polyfill": "^1.0.1",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-localstorage": "^2.2.1"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "groupchat-localstroage",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "subhajit",
+  "license": "ISC",
+  "description": ""
+}
